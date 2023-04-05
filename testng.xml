@@ -3,7 +3,7 @@
 <suite name="Default Suite">
     <test thread-count="5" name="RapidAPI">
         <classes>
-            <class name="employe.TestCases"/>
+            <class name="WeatherAPI.TestCases"/>
         </classes>
     </test>
 </suite>

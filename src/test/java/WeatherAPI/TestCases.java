@@ -1,8 +1,7 @@
-package employe;
+package WeatherAPI;
 
 import io.restassured.response.Response;
 import model.*;
-import org.testng.Reporter;
 import org.testng.annotations.Test;
 import utils.Constant;
 import weatherCrudOperation.GetRequest;
